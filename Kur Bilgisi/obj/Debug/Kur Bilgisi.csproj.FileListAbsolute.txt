@@ -1,0 +1,49 @@
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Kur Bilgisi.exe.config
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Kur Bilgisi.exe
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Kur Bilgisi.pdb
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur Bilgisi.csproj.AssemblyReference.cache
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.Properties.Resources.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur Bilgisi.csproj.GenerateResource.cache
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur Bilgisi.csproj.CoreCompileInputs.cache
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur Bilgisi.exe
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur Bilgisi.pdb
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.exchange.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\MetroFramework.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\MetroFramework.Fonts.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.frmDashboard.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.analysis.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.WinForms.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.Wpf.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.pdb
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.WinForms.pdb
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.WinForms.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.Wpf.pdb
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\LiveCharts.Wpf.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\HtmlAgilityPack.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\HtmlAgilityPack.pdb
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\HtmlAgilityPack.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.Yesterday.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.about.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.settings.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\circle_progressbar.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\CircularProgressBar.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\WinFormAnimation.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\CircularProgressBar.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\WinFormAnimation.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur_Bilgisi.Loading.resources
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\FireSharp.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Newtonsoft.Json.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\System.Net.Http.Extensions.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\System.Net.Http.Primitives.dll
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\Newtonsoft.Json.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\System.Net.Http.Extensions.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\bin\Debug\System.Net.Http.Primitives.xml
+C:\csharp projelerim\Kur Bilgisi\Kur Bilgisi\obj\Debug\Kur Bilgisi.csproj.App.config

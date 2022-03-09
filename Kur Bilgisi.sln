@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kur Bilgisi", "Kur Bilgisi\Kur Bilgisi.csproj", "{66A0D397-BF8D-4BB2-B70B-3242494B74D9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Exchange", "Exchange\Exchange.vdproj", "{E6A65254-6C3C-47B6-9C6E-487454A29ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A0D397-BF8D-4BB2-B70B-3242494B74D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A0D397-BF8D-4BB2-B70B-3242494B74D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A0D397-BF8D-4BB2-B70B-3242494B74D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A0D397-BF8D-4BB2-B70B-3242494B74D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A65254-6C3C-47B6-9C6E-487454A29ACF}.Debug|Any CPU.ActiveCfg = Debug
+		{E6A65254-6C3C-47B6-9C6E-487454A29ACF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C3CEAB2-3AAB-443E-930B-D6E21DCFD8AD}
+	EndGlobalSection
+EndGlobal

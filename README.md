@@ -4,4 +4,4 @@ Exchange türkiye için döviz takip programıdır, türk lirası üzerinden ana
 
 <img src="https://i.hizliresim.com/i6t6cjw.png" width=660 height=400/>
 
-<img src="]https://i.hizliresim.com/b592r7d.png" width=660 height=400/>
+<img src="https://i.hizliresim.com/b592r7d.png" width=660 height=400/>
